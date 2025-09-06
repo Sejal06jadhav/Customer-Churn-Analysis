@@ -35,3 +35,6 @@ Identify high-risk churners and prioritize retention offers
 Optimize customer engagement strategies based on churn drivers
 Forecast potential revenue loss due to churn
 Enable data-driven decision-making for marketing & support teams
+
+🔹 Screenshots 
+https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Prediction.png
