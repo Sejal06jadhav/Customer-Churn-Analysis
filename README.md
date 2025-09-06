@@ -1,4 +1,5 @@
 Customer Churn Analysis
+
 🔹 Purpose 
 This project focuses on analyzing and predicting customer churn using machine learning (Random Forest) and creating an interactive Power BI dashboard for business insights. The solution helps businesses identify customers likely to churn and understand key drivers behind churn, enabling proactive retention strategies.
 
