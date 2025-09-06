@@ -37,4 +37,5 @@ Forecast potential revenue loss due to churn
 Enable data-driven decision-making for marketing & support teams
 
 🔹 Screenshots 
+https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Summary.png
 https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Prediction.png
