@@ -23,6 +23,7 @@ Visualize churn patterns, customer profiles, and high-risk segments
 Provide management with actionable insights for retention strategies
 
 🔹 Key Visuals
+
 1)Churn Rate KPI → Percentage of customers predicted to churn
 
 2)Predicted Churners Count → Total customers at risk
@@ -40,5 +41,6 @@ Forecast potential revenue loss due to churn
 Enable data-driven decision-making for marketing & support teams
 
 🔹 Screenshots 
-https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Summary.png
+
+  https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Summary.png
   https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Prediction.png
