@@ -1,7 +1,6 @@
 Customer Churn Analysis
 
-🔹  
-This project focuses on analyzing and predicting customer churn using machine learning (Random Forest) and creating an interactive Power BI dashboard for business insights. The solution helps businesses identify customers likely to churn and understand key drivers behind churn, enabling proactive retention strategies.
+🔹 This project focuses on analyzing and predicting customer churn using machine learning (Random Forest) and creating an interactive Power BI dashboard for business insights. The solution helps businesses identify customers likely to churn and understand key drivers behind churn, enabling proactive retention strategies.
 
 🔹 Tech Stack -
 Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Joblib) – Data preprocessing, model training, prediction
@@ -24,11 +23,11 @@ Visualize churn patterns, customer profiles, and high-risk segments
 Provide management with actionable insights for retention strategies
 
 🔹 
-Churn Rate KPI → Percentage of customers predicted to churn
-Predicted Churners Count → Total customers at risk
-Demographic Breakdown → Gender, age, marital status vs. churn
-Service Usage Analysis → Internet service type, contract, payment method impact
-Feature Importance Plot (from ML model) → Drivers of churn
+1)Churn Rate KPI → Percentage of customers predicted to churn
+2)Predicted Churners Count → Total customers at risk
+3)Demographic Breakdown → Gender, age, marital status vs. churn
+4)Service Usage Analysis → Internet service type, contract, payment method impact
+5)Feature Importance Plot (from ML model) → Drivers of churn
 
 🔹 Business Impact & Insights -
 Identify high-risk churners and prioritize retention offers
@@ -38,4 +37,4 @@ Enable data-driven decision-making for marketing & support teams
 
 🔹 Screenshots 
 https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Summary.png
-https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Prediction.png
+  https://github.com/Sejal06jadhav/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Prediction.png
