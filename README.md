@@ -22,7 +22,7 @@ Predict churn using a trained Random Forest ML model
 Visualize churn patterns, customer profiles, and high-risk segments
 Provide management with actionable insights for retention strategies
 
-🔹 
+🔹 Key Visuals
 1)Churn Rate KPI → Percentage of customers predicted to churn
 
 2)Predicted Churners Count → Total customers at risk
