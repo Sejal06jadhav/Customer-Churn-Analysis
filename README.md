@@ -24,9 +24,13 @@ Provide management with actionable insights for retention strategies
 
 🔹 
 1)Churn Rate KPI → Percentage of customers predicted to churn
+
 2)Predicted Churners Count → Total customers at risk
+
 3)Demographic Breakdown → Gender, age, marital status vs. churn
+
 4)Service Usage Analysis → Internet service type, contract, payment method impact
+
 5)Feature Importance Plot (from ML model) → Drivers of churn
 
 🔹 Business Impact & Insights -
